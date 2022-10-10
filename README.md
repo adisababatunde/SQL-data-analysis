@@ -1,3 +1,3 @@
-# SQL-data-analysis
+# SQL-Data-Exploration.
 
 Employee salary exploration with SQL.

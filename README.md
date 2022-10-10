@@ -1,3 +1,3 @@
 # SQL-data-analysis
 
-Employee salary data analysis with SQL.
+Employee salary exploration with SQL.
